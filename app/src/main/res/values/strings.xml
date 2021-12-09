@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">happynewyear</string>
+    <string name="android">Я Android разаботчик</string>
+    <string name="back">Back</string>
+    <string name="next">NEXT</string>
+    <string name="todo">TODO</string>
+    <string name="home2">Home</string>
+    <string name="back2">Back</string>
+    <string name="todo21">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+</resources>
